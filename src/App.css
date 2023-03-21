@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: "Nirmala";
+  src: url("./components/assets/fonts/Nirmala.ttf") format("truetype");
+}
